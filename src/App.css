@@ -93,7 +93,6 @@ textarea {
 
 .translate-wrap {
   display: flex;
-  min-height: 50dvh;
   gap: 10px;
   padding-inline: 20px;
 }
